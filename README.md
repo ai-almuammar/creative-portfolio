@@ -8,6 +8,6 @@ This is a static website. Enable Pages from the `main` branch and the repository
 
 ## Media
 
-Images and fonts are included locally. Existing videos and animated frame sequences reference their original hosted media at ./.
+Images, fonts, videos and animated frame sequences are included locally.
 
 The portfolio includes its owner's published contact details.
